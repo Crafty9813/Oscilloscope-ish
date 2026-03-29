@@ -1,0 +1,1 @@
+Using the STM32 NUCLEO-G474RE, this project is for me to learn about ADCs.
